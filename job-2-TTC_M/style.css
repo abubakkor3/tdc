@@ -1,0 +1,22 @@
+.nav-item a:hover{
+    background-color: green;
+    color: white!important;
+    border-radius: 5px;
+}
+.caro_pro{
+    height: 100vh;
+}
+.list a{
+    text-decoration: none;
+    /* color: black; */
+    /* pore */
+    display: block;
+    padding: 5px;
+
+}
+.list a:hover{
+    background-color: blue;
+    color: white !important;
+    padding: 10px;
+    border-radius: 5px;
+}
